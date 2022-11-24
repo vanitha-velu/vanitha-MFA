@@ -1,0 +1,39 @@
+.container1 {
+  display: inline-block;
+  background-color: rgba(12, 25, 44, 255);
+  margin-left: 200px;
+  margin-right: 200px;
+  border-radius: 20px;
+}
+.img1 {
+  margin-left: 10px;
+  margin-top: 8px;
+  border-radius: 10px;
+}
+.para {
+  color: grey;
+}
+.name {
+  color: white;
+  margin-left: 10px;
+}
+.eth {
+  display: flex;
+  color: grey;
+}
+.bottom {
+  display: flex;
+  color: aqua;
+}
+.line1 {
+  color: grey;
+}
+.container2 {
+  display: flex;
+}
+.footer {
+  display: flex;
+}
+body {
+  background-color: rgb(6, 57, 112);
+}
